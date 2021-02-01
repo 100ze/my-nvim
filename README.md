@@ -1,3 +1,3 @@
-# my-nvim
+# config
 
-Basicamente, é aqui que eu guardo as minhas configurações do neovim.
+Basicamente, é aqui que eu guardo as minhas configurações de programas linux e afins.
