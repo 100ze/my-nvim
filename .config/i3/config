@@ -43,6 +43,9 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec gnome-terminal
 
+# start a retro terminal
+bindsym $mod+Shift+Return exec cool-retro-term
+
 # kill focused window
 bindsym $mod+Shift+q kill
 
