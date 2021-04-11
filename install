@@ -1,0 +1,24 @@
+
+adicionar ao pacstrap os pacotes adicionais: vim man dhcpcd
+instalar (apos chroot) os pacotes: grub os-prober ntfs-3g 
+montar a partição do windows antes de rodar o grub-config
+habilitar serviço de rede e dhcp
+
+baixar e habilitar o serviço systemd-swap ou colocar a partição swap no fstab
+
+instalar xfce
+instalar pacotes xorg e i3
+criar um usuario e instalar o sudo
+
+instalar fonte Terminus
+carregar conf do i3 e instalar o dmenu
+
+script para mudar a conf do teclado antes de iniciar o xorg
+script para desligar a tela apos iniciar o xorg
+
+instalar:
+  pavucontrol e pulseaudio 
+  vlc, neovim
+  clang e ruby e python
+
+desmutar saida de áudio e entrada do voz via pavucontrol (talvez precise rodar o pulseaudio antes)
