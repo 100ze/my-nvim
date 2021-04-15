@@ -17,7 +17,7 @@ script para mudar a conf do teclado antes de iniciar o xorg
 script para desligar a tela apos iniciar o xorg
 
 instalar:
-  pavucontrol e pulseaudio 
+  pavucontrol, pulseaudio e alsa-utils
   vlc, neovim
   clang e ruby e python
 
